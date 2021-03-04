@@ -9,6 +9,7 @@ Destop Preview:
 
 Mobile Preview:
 ![Mobile Preview](images/mobile-ui.jpg)
+<img src="images/mobile-ui.jpg" alt="Mobile Preview" style="width:1242px;height:2174px;">
 
 ### Credits
 

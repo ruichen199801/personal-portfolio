@@ -8,7 +8,7 @@ Destop Preview:
 ![Desktop Preview](images/desktop-ui.jpg)
 
 Mobile Preview:
-<img src="images/mobile-ui.jpg" alt="Mobile Preview" style="width:600px;height:1050px;">
+![Mobile Preview](images/mobile-ui.jpg)
 
 ### Credits
 

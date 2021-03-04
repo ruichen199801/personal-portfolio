@@ -5,12 +5,10 @@
 Check out my personal portfolio website at [ruichenzhang.com](https://ruichenzhang.com/). It was built on responsive HTML5 and CSS3 and can be viewed both on a mobile screen and a desktop.
 
 Destop Preview:<br>
-![Desktop Preview](images/desktop-ui.jpg)
-<img align="middle" src="images/desktop-ui.jpg" alt="Desktop Preview">
+<img align="center" src="images/desktop-ui.jpg" alt="Desktop Preview">
 
 Mobile Preview:<br>
-![Mobile Preview](images/mobile-ui.jpg)
-<img align="middle" src="images/mobile-ui.jpg" alt="Mobile Preview">
+<img align="center" src="images/mobile-ui.jpg" alt="Mobile Preview">
 
 ### Credits
 
